@@ -10,15 +10,23 @@
   display: none !important;
 }
 
+#app-mount .scroller-15bIdk {
+  padding: 0 0px;
+}
+
 #app-mount .tabBody-2dgbAs:before {
   content: none;
 }
 
 #app-mount .fieldList-in8WkP {
-  background-color: none;
+  background-color: #00000000;;
 }
 
-#app-mount.base-3bcbY3 {
+#app-mount .accountProfileCard-lbN7n-{
+  background-color: #0000004d;
+}
+
+#app-mount .base-3bcbY3 {
   margin-bottom: 53px !important;
 }
 
@@ -32,7 +40,7 @@
 }
 
 #app-mount .info-3pQQBb .text-xs-normal-3O7EaX:first-child:before {
-  content: "SimplyDark BG" var(--simplydark-version);
+  content: "SimplyDark BG " var(--simplydark-version);
   text-transform: none;
   display: block;
 }
@@ -167,9 +175,18 @@
   padding: 0 8px 0 16px;
 }
 
+#app-mount .peopleList-2VBrVI::-webkit-scrollbar {
+  display: none;
+}
+
 #app-mount .peopleListItem-u6dGxF {
   margin: 0;
   padding: 0 16px;
+}
+
+#app-mount .profileBadges-2pItdR.profileBadges-2pItdR {
+  padding: 0;
+  padding-top: 6px;
 }
 
 #app-mount .container-1oeRFJ {
