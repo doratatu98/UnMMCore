@@ -248,6 +248,10 @@
   border-color: var(--discord-red);
 }
 
+#app-mount .container-YkUktl {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
 #app-mount .container-ZMc96U .children-3xh0VB:after {
   content: none;
 }
